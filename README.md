@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66c8783592ec1a8a73e8a852?variant=dark&roadmaps=ai-data-scientist%2Csql%2Cpython%2Cmlops" alt="roadmap.sh"/></a>
+
 <!--
 **AI-eX/AI-eX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
